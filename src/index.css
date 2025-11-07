@@ -5,12 +5,12 @@
 }
 
 html {
-  color: white;
+  color: rgb(10, 10, 10);
   font-family: sans-serif;
 }
 
 body {
-  background: #111;
+  background: #be0da1;
 }
 
 #root {
